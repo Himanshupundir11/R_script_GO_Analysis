@@ -63,10 +63,5 @@ Plots will be generated automatically by the R script.
 
 ```r
 source("gene_expression_analysis.R")
-```
-
----
-
-## 👩‍🔬 Author
 
 Prepared for educational and demonstration purposes for bioinformatics pipelines using R.
